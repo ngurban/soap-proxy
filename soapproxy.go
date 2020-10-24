@@ -34,7 +34,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/UNO-SOFT/grpcer"
+	"github.com/ngurban/grpcer"
 	"github.com/UNO-SOFT/otel"
 
 	"golang.org/x/net/html/charset"

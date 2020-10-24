@@ -5,10 +5,10 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/UNO-SOFT/grpcer"
-	"github.com/UNO-SOFT/soap-proxy"
+	"github.com/ngurban/grpcer"
+	"github.com/ngurban/soap-proxy"
 
-	pb "github.com/UNO-SOFT/soap-proxy/example/mysrvc"
+	pb "github.com/ngurban/soap-proxy/example/mysrvc"
 )
 
 //go:generate go install -v github.com/UNO-SOFT/grpcer/protoc-gen-grpcer
